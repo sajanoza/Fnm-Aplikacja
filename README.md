@@ -1,0 +1,2 @@
+# Fnm-Aplikacja
+package phonegapa
